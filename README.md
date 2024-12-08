@@ -23,9 +23,3 @@ Before running the tests, ensure you have the following installed:
 - **Robot Framework**
 - **SeleniumLibrary**
 - **Microsoft Edge** and **Edge WebDriver**
-
-## Installation and Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yudianggriawan/swaglabs-robot-tests.git
-   cd swaglabs-robot-tests
